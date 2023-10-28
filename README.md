@@ -1,7 +1,7 @@
 # GSheet2SMS
 Tool to send sms thanks to ADB (Android 12) from Google Sheet
 
-![Screenshot of the output of the tool](assets\images\img_bash.png)
+![Screenshot of the output of the tool](assets/images/img_bash.png)
 
 # Use it
 ## Configure android ADB
